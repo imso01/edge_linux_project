@@ -25,32 +25,32 @@
 
 Omok_game/
 ├── client/
-│   ├── client                     # 클라이언트 실행 파일
-│   ├── Makefile                   # 클라이언트 빌드 파일
-│   ├── incs/                      # 클라이언트 헤더
-│   │   └── [*.h]                  
-│   └── srcs/                      # 클라이언트 소스
-│       ├── client.c              # 클라이언트 메인 로직
-│       ├── print_board.c        # 오목판 그리기 함수
-│       ├── print_result.c       # 승패 결과 출력
-│       ├── print_turn.c         # 턴 정보 출력
-│       ├── print_ui.c           # UI 구성
-│       ├── recvData.c           # 서버에서 데이터 수신
-│       ├── sendData.c           # 서버로 데이터 전송
-│       └── set_info.c           # 사용자 정보 설정
+│   ├── client               # 클라이언트 실행 파일
+│   ├── Makefile             # 클라이언트 빌드 파일
+│   ├── incs/                # 클라이언트 헤더
+│   │   └── *.h
+│   └── srcs/                # 클라이언트 소스
+│       ├── client.c         # 메인 로직
+│       ├── print_board.c    # 오목판 그리기
+│       ├── print_result.c   # 승패 결과 출력
+│       ├── print_turn.c     # 턴 정보 출력
+│       ├── print_ui.c       # UI 구성
+│       ├── recvData.c       # 서버에서 데이터 수신
+│       ├── sendData.c       # 서버로 데이터 전송
+│       └── set_info.c       # 사용자 정보 설정
 
 ├── server/
-│   ├── server                     # 서버 실행 파일
-│   ├── Makefile                   # 서버 빌드 파일
-│   ├── incs/                      # 서버 헤더
-│   │   └── [*.h]                  
-│   └── srcs/                      # 서버 소스
-│       ├── init.c                # 서버 초기화 설정
-│       ├── main.c                # 서버 메인 함수
-│       ├── map.c                 # 오목판 상태 저장
-│       ├── startGame.c          # 게임 시작 로직
-│       ├── startTCP.c           # TCP 통신 초기화
-│       └── startThread.c        # 클라이언트 쓰레드 처리
+│   ├── server               # 서버 실행 파일
+│   ├── Makefile             # 서버 빌드 파일
+│   ├── incs/                # 서버 헤더
+│   │   └── *.h
+│   └── srcs/                # 서버 소스
+│       ├── init.c           # 서버 초기화
+│       ├── main.c           # 서버 메인
+│       ├── map.c            # 오목판 상태
+│       ├── startGame.c      # 게임 시작
+│       ├── startTCP.c       # TCP 통신 초기화
+│       └── startThread.c    # 클라이언트 쓰레드 처리
 
 
 ---
@@ -58,12 +58,12 @@ Omok_game/
 ## ✅ 실행 방법
 
 ### 1. 서버 실행
-
 ```bash
 make server
 ./server
-
+```
 ### 2. 클라이언트 실행
-
+```bash
 make client
 ./client
+```
