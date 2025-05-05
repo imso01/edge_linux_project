@@ -18,12 +18,12 @@ C 언어와 리눅스 환경에서 구현한 4목 게임입니다.
 - **Language:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
 - **Platform:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 - **Protocol:** ![TCP/IP](https://img.shields.io/badge/TCP/IP-green)  
-- **Key Components:** ![Framebuffer](https://img.shields.io/badge/Framebuffer-blue) ![Socket](https://img.shields.io/badge/Socket-blue) ![Makefile](https://img.shields.io/badge/Makefile-blue)
+- **Technical Components:** ![Framebuffer](https://img.shields.io/badge/Framebuffer-blue) ![Socket](https://img.shields.io/badge/Socket-blue) ![Makefile](https://img.shields.io/badge/Makefile-blue)
 - **Toolchain:** ![GCC](https://img.shields.io/badge/Compiler-GCC-blue)
 
 ---
 
 ### 👤 담당 역할
 
-- 프레임버퍼를 활용한 오목판 UI 및 게임 상태 화면 구성  
-- 터치 가능한 LCD에서 좌표 입력 처리 및 흑백 바둑돌 출력
+- 프레임버퍼를 활용한 오목판 및 게임 상태 UI 구현  
+- 터치 입력 처리 및 흑백 바둑돌 렌더링
