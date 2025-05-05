@@ -17,8 +17,8 @@ C 언어와 리눅스 환경에서 구현한 4목 게임입니다.
 
 - **Language:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
 - **Platform:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
-- **Protocol:** ![TCP/IP](https://img.shields.io/badge/Protocol-TCP/IP-green)  
-- **Key Components:** ![Framebuffer](https://img.shields.io/badge/Framebuffer-Linux-informational) ![Socket](https://img.shields.io/badge/Socket-TCP/IP-blue) ![Makefile](https://img.shields.io/badge/Build-Makefile-blue)  
+- **Protocol:** ![TCP/IP](https://img.shields.io/badge/TCP/IP-green)  
+- **Key Components:** ![Framebuffer](https://img.shields.io/badge/Framebuffer-blue) ![Socket](https://img.shields.io/badge/Socket-blue) ![Makefile](https://img.shields.io/badge/Makefile-blue)
 - **Toolchain:** ![GCC](https://img.shields.io/badge/Compiler-GCC-blue)
 
 ---
