@@ -36,13 +36,24 @@ C 언어와 리눅스 환경에서 구현한 4목 게임입니다.
 
 ---
 
-### 🛠️ 사용 기술
+### 🛠 사용 기술
 
-- **Language:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-- **Platform:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
-- **Protocol:** ![TCP/IP](https://img.shields.io/badge/TCP/IP-green)  
-- **Technical Components:** ![Framebuffer](https://img.shields.io/badge/Framebuffer-blue) ![Socket](https://img.shields.io/badge/Socket-blue) ![Makefile](https://img.shields.io/badge/Makefile-blue)  
-- **Toolchain:** ![GCC](https://img.shields.io/badge/Compiler-GCC-blue)
+#### 💻 프로그래밍 언어  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🧩 플랫폼 / OS  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### 🌐 통신 프로토콜  
+![TCP/IP](https://img.shields.io/badge/TCP/IP-6DB33F?style=for-the-badge)
+
+#### ⚙️ 기술 구성 요소  
+![Framebuffer](https://img.shields.io/badge/Framebuffer-007ACC?style=for-the-badge)
+![Socket](https://img.shields.io/badge/Socket-007ACC?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-007ACC?style=for-the-badge)
+
+#### 🧪 툴체인  
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge)
 
 ---
 
