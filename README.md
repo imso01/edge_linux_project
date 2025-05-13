@@ -15,7 +15,7 @@ C 언어와 리눅스 환경에서 구현한 4목 게임입니다.
 ### 🖼️ UI 화면 예시
 
 <p align="center">
-  <img src="./images/omok_ui.jpg" width="400px">
+  <img src="./images/omok_ui.png" width="400px">
 </p>
 
 > 실제 구현된 오목판 UI (프레임버퍼 기반 흑백 바둑돌 및 그리드 표시)
