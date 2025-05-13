@@ -13,6 +13,14 @@ C 언어와 리눅스 환경에서 구현한 4목 게임입니다.
 
 ---
 
+### 🎬 시연 영상
+
+[![Omok Game 시연 영상](https://img.youtube.com/vi/Ep2DzFJjpJQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Ep2DzFJjpJQ)
+
+> 리눅스 기반 프레임버퍼 UI와 TCP/IP 통신을 통해 두 플레이어가 오목 게임을 실시간으로 진행하는 장면입니다.
+
+---
+
 ### 🛠️ 사용 기술
 
 - **Language:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
